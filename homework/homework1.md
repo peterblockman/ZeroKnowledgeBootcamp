@@ -1,4 +1,5 @@
-1. Working with the following set of Integers S = {0,1,2,3,4,5,6}
+# Question 1
+Working with the following set of Integers S = {0,1,2,3,4,5,6}
 What is
 a) 4 + 4
 b) 3 x 5
@@ -30,19 +31,21 @@ therefore x = 5
 Theory: 
 - (Extended Euclidean algorithm)[https://en.wikipedia.org/wiki/Extended_Euclidean_algorithm]
 - https://math.stackexchange.com/a/747393/1093681
-
-2. For S = {0,1,2,3,4,5,6}
+# Question 2
+For S = {0,1,2,3,4,5,6}
 Can we consider 'S' and the operation '+' to be a group ? => yes
 - Closure: the sum of any two numbers in S is always in S. For instance, 2 + 4 = 6 belongs to S
 - Associativity: for any a, b, and c in S, (a + b) + c = a + (b + c).
 - Identity element: There exists an element e in S such that for any a in S, a + e = e + a = a. This element is 0 since 0 + a = a + 0 = a for any a in S.
 - Inverse element: For any a in S, there exists an element b in S such that a + b = b + a = e. We can find the inverse of any element a in S by subtracting a from 7. For example, the inverse of 3 is 4 since 3 + 4 = 4 + 3 = 7, which is the identity element of S.
 
-3. What is -13 mod 5 ?
+# Question 3
+What is -13 mod 5 ?
 -13 = (-3) x 5 + 2 => -13 mod 5 = 2
 
 
-4. Polynomials
+# Question 4
+Polynomials
 For the polynomial x^3 - x^2 + 4x - 12 
 Find a the positive root ?
 --
