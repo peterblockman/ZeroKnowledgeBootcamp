@@ -48,6 +48,5 @@ What is -13 mod 5 ?
 Polynomials
 For the polynomial x^3 - x^2 + 4x - 12 
 Find a the positive root ?
---
 What is the degree of this polynomial ?
 The degree is 3 which is the highest power of the variable x
